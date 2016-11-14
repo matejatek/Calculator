@@ -51,7 +51,7 @@
             // b_1
             // 
             this.b_1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
-            this.b_1.Location = new System.Drawing.Point(10, 197);
+            this.b_1.Location = new System.Drawing.Point(10, 284);
             this.b_1.Name = "b_1";
             this.b_1.Size = new System.Drawing.Size(50, 50);
             this.b_1.TabIndex = 0;
@@ -62,7 +62,7 @@
             // b_2
             // 
             this.b_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
-            this.b_2.Location = new System.Drawing.Point(66, 197);
+            this.b_2.Location = new System.Drawing.Point(66, 284);
             this.b_2.Name = "b_2";
             this.b_2.Size = new System.Drawing.Size(50, 50);
             this.b_2.TabIndex = 1;
@@ -73,7 +73,7 @@
             // b_3
             // 
             this.b_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
-            this.b_3.Location = new System.Drawing.Point(122, 197);
+            this.b_3.Location = new System.Drawing.Point(122, 284);
             this.b_3.Name = "b_3";
             this.b_3.Size = new System.Drawing.Size(50, 50);
             this.b_3.TabIndex = 2;
@@ -84,7 +84,7 @@
             // b_4
             // 
             this.b_4.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
-            this.b_4.Location = new System.Drawing.Point(10, 141);
+            this.b_4.Location = new System.Drawing.Point(10, 228);
             this.b_4.Name = "b_4";
             this.b_4.Size = new System.Drawing.Size(50, 50);
             this.b_4.TabIndex = 3;
@@ -95,7 +95,7 @@
             // b_5
             // 
             this.b_5.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
-            this.b_5.Location = new System.Drawing.Point(66, 141);
+            this.b_5.Location = new System.Drawing.Point(66, 228);
             this.b_5.Name = "b_5";
             this.b_5.Size = new System.Drawing.Size(50, 50);
             this.b_5.TabIndex = 4;
@@ -106,7 +106,7 @@
             // b_6
             // 
             this.b_6.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
-            this.b_6.Location = new System.Drawing.Point(122, 141);
+            this.b_6.Location = new System.Drawing.Point(122, 228);
             this.b_6.Name = "b_6";
             this.b_6.Size = new System.Drawing.Size(50, 50);
             this.b_6.TabIndex = 5;
@@ -117,7 +117,7 @@
             // b_7
             // 
             this.b_7.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
-            this.b_7.Location = new System.Drawing.Point(10, 85);
+            this.b_7.Location = new System.Drawing.Point(10, 172);
             this.b_7.Name = "b_7";
             this.b_7.Size = new System.Drawing.Size(50, 50);
             this.b_7.TabIndex = 6;
@@ -128,7 +128,7 @@
             // b_8
             // 
             this.b_8.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
-            this.b_8.Location = new System.Drawing.Point(66, 85);
+            this.b_8.Location = new System.Drawing.Point(66, 172);
             this.b_8.Name = "b_8";
             this.b_8.Size = new System.Drawing.Size(50, 50);
             this.b_8.TabIndex = 7;
@@ -139,7 +139,7 @@
             // b_9
             // 
             this.b_9.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
-            this.b_9.Location = new System.Drawing.Point(122, 85);
+            this.b_9.Location = new System.Drawing.Point(122, 172);
             this.b_9.Name = "b_9";
             this.b_9.Size = new System.Drawing.Size(50, 50);
             this.b_9.TabIndex = 8;
@@ -150,7 +150,7 @@
             // b_0
             // 
             this.b_0.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
-            this.b_0.Location = new System.Drawing.Point(66, 253);
+            this.b_0.Location = new System.Drawing.Point(66, 340);
             this.b_0.Name = "b_0";
             this.b_0.Size = new System.Drawing.Size(50, 50);
             this.b_0.TabIndex = 9;
@@ -161,7 +161,7 @@
             // b_e
             // 
             this.b_e.Font = new System.Drawing.Font("Microsoft Sans Serif", 22.25F);
-            this.b_e.Location = new System.Drawing.Point(122, 253);
+            this.b_e.Location = new System.Drawing.Point(122, 340);
             this.b_e.Name = "b_e";
             this.b_e.Size = new System.Drawing.Size(50, 50);
             this.b_e.TabIndex = 11;
@@ -172,7 +172,7 @@
             // b_d
             // 
             this.b_d.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
-            this.b_d.Location = new System.Drawing.Point(176, 85);
+            this.b_d.Location = new System.Drawing.Point(176, 172);
             this.b_d.Name = "b_d";
             this.b_d.Size = new System.Drawing.Size(50, 50);
             this.b_d.TabIndex = 12;
@@ -183,7 +183,7 @@
             // b_k
             // 
             this.b_k.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
-            this.b_k.Location = new System.Drawing.Point(176, 141);
+            this.b_k.Location = new System.Drawing.Point(176, 228);
             this.b_k.Name = "b_k";
             this.b_k.Size = new System.Drawing.Size(50, 50);
             this.b_k.TabIndex = 13;
@@ -194,7 +194,7 @@
             // b_m
             // 
             this.b_m.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
-            this.b_m.Location = new System.Drawing.Point(176, 197);
+            this.b_m.Location = new System.Drawing.Point(176, 284);
             this.b_m.Name = "b_m";
             this.b_m.Size = new System.Drawing.Size(50, 50);
             this.b_m.TabIndex = 14;
@@ -205,7 +205,7 @@
             // b_pl
             // 
             this.b_pl.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
-            this.b_pl.Location = new System.Drawing.Point(176, 253);
+            this.b_pl.Location = new System.Drawing.Point(176, 340);
             this.b_pl.Name = "b_pl";
             this.b_pl.Size = new System.Drawing.Size(50, 50);
             this.b_pl.TabIndex = 15;
@@ -216,7 +216,7 @@
             // b_p
             // 
             this.b_p.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
-            this.b_p.Location = new System.Drawing.Point(10, 253);
+            this.b_p.Location = new System.Drawing.Point(10, 340);
             this.b_p.Name = "b_p";
             this.b_p.Size = new System.Drawing.Size(50, 50);
             this.b_p.TabIndex = 10;
@@ -227,9 +227,9 @@
             // b_c
             // 
             this.b_c.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
-            this.b_c.Location = new System.Drawing.Point(176, 12);
+            this.b_c.Location = new System.Drawing.Point(176, 19);
             this.b_c.Name = "b_c";
-            this.b_c.Size = new System.Drawing.Size(50, 50);
+            this.b_c.Size = new System.Drawing.Size(50, 72);
             this.b_c.TabIndex = 16;
             this.b_c.Text = "C";
             this.b_c.UseVisualStyleBackColor = true;
@@ -239,17 +239,19 @@
             // 
             this.sc.BackColor = System.Drawing.SystemColors.Control;
             this.sc.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
+            this.sc.HideSelection = false;
             this.sc.Location = new System.Drawing.Point(10, 19);
+            this.sc.Multiline = true;
             this.sc.Name = "sc";
             this.sc.ReadOnly = true;
-            this.sc.Size = new System.Drawing.Size(160, 38);
+            this.sc.Size = new System.Drawing.Size(160, 65);
             this.sc.TabIndex = 17;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(238, 317);
+            this.ClientSize = new System.Drawing.Size(238, 406);
             this.Controls.Add(this.sc);
             this.Controls.Add(this.b_c);
             this.Controls.Add(this.b_pl);

@@ -13,6 +13,9 @@ namespace WindowsFormsApplication1
 {
     public partial class Form1 : Form
     {
+        public float first;
+        public float second;
+        public char op;
         public Form1()
         {
             InitializeComponent();
@@ -87,32 +90,49 @@ namespace WindowsFormsApplication1
         }
         private void b_e_Click(object sender, EventArgs e)
         {
-
+            second = float.Parse(sc.Text);
+            switch(op)
+            {
+                case '+':sc.Text = (first + second).ToString();break;
+                case '-': sc.Text = (first - second).ToString(); break;
+                case '*': sc.Text = (first * second).ToString(); break;
+                case '/': sc.Text = (first / second).ToString(); break;
+            }
         }
 
         private void b_pl_Click(object sender, EventArgs e)
         {
-
+            first = float.Parse(sc.Text);
+            op = '+';
+            sc.Text = "";
         }
 
         private void b_m_Click(object sender, EventArgs e)
         {
-
+            first = float.Parse(sc.Text);
+            op = '-';
+            sc.Text = "";
         }
 
         private void b_k_Click(object sender, EventArgs e)
         {
-
+            first = float.Parse(sc.Text);
+            op = '*';
+            sc.Text = "";
         }
 
         private void b_d_Click(object sender, EventArgs e)
         {
-
+            first = float.Parse(sc.Text);
+            op = '/';
+            sc.Text = "";
         }
 
         private void b_c_Click(object sender, EventArgs e)
         {
-
+            sc.Text = "";
+            first = 0;
+            second = 0;
         }
     }
 }
